@@ -2,7 +2,7 @@
 The submission duration for this task has begun 🎉
 This issue is OPEN TO ALL. 
 No need to claim this issue.
-NO SUBMISSION WILL BE ACCEPTED AFTER 8th October 11:59 PM.
+NO SUBMISSION WILL BE ACCEPTED AFTER 7th October 11:59 PM.
 
 This is our OpenCode Website: [https://opencodeiiita.github.io/](https://opencodeiiita.github.io/)
 
